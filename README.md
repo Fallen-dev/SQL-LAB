@@ -44,9 +44,9 @@ select EMPNO from EMP where EMPNO is null;
 ```
 
 #### Output:
-EMPNO
-
-`-`
+|EMPNO|
+|:-:|
+|-|
 
 #### Q-1.5
 ```sql
