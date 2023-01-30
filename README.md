@@ -20,7 +20,7 @@ desc EMP;
 #### Output:
 |TABLE |EMPResult |Set 1
 |:-:|:-:|:-:|
-|Column	Null?	|Type
+|Column	|Null?	|Type
 |EMPNO	|- 	    |NUMBER(6,0)
 |ENAME	|- 	    |VARCHAR2(20)
 |JOB	    |- 	    |VARCHAR2(10)
