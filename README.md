@@ -106,7 +106,7 @@ select * from EMP where SAL > 1500;
 
 #### Output:
 |EMPNO|ENAME	|JOB	|MGR	|DEPTNO|SAL
-|:-:|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|:-:|:-:|:-:|
 |7399|ASANT	|SALESMAN		|7566		|20		|1600
 |7566|JONES	|MANAGER		|7839		|20		|5975
 |7499|ALLEN	|SALESMAN		|7698		|30		|1600
